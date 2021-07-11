@@ -1,5 +1,5 @@
 <p align="center">
-<img src="#" width="200" height="200"/>
+<img src="./images/watermelon.png" width="200" height="200"/>
 </p>
 <h1 align="center">Learn Diary</h1>
 
